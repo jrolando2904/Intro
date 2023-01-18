@@ -1,5 +1,6 @@
 # 💫 About Me:
-Soy un desarrollador web autodidacta con 3 años de experiencia, he trabajado principalmente en proyectos propios, frontend usando, React, y Vanilla JS. Así como bases de datos como MongoDB y MySQL, también he profundizado en el backend con Node js
+Soy un desarrollador web autodidacta con 3 años de experiencia, he trabajado principalmente en proyectos propios, frontend usando, React, y Vanilla JS. Así como bases de datos como MongoDB y MySQL, también he profundizado en el backend con Node js.
+Un poco de mi trabajo https://rolandoalz.github.io/
 
 
 ## 🌐 Socials:
